@@ -1,0 +1,12 @@
+
+# vscode
+.vscode/
+
+# Arduino PLC IDE
+Build/
+Llsketch_build/
+PreviousVersions/
+Download/
+
+# others:
+Archive/
